@@ -1,0 +1,135 @@
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe.config
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.pdb
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\OpenTK.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\ZedGraph.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\OpenTK.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\ZedGraph.xml
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.AssemblyReference.cache
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Form1.resources
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Properties.Resources.resources
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.GenerateResource.cache
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CopyComplete
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.exe
+C:\Users\Abdullah Shehzad\source\repos\PROJECTPRACTICE\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.pdb
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe.config
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.pdb
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\OpenTK.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\ZedGraph.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\OpenTK.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\ZedGraph.xml
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\de\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\es\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\fr\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\hu\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\it\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\ja\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\pt\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\ru\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\sk\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\sv\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\tr\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.AssemblyReference.cache
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.SuggestedBindingRedirects.cache
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Form1.resources
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Properties.Resources.resources
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.GenerateResource.cache
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CoreCompileInputs.cache
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CopyComplete
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.exe
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.pdb
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.blendImages.resources
+D:\ahmad dbms\unipro\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.StartUp.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe.config
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.exe
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\PROJECTPRACTICE.pdb
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.dll
+<<<<<<< Updated upstream
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Guna.UI2.dll
+=======
+>>>>>>> Stashed changes
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\OpenTK.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\ZedGraph.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Emgu.CV.World.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\OpenTK.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\OpenTK.GLControl.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\ZedGraph.xml
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.AssemblyReference.cache
+<<<<<<< Updated upstream
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Cropimage.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Dashboard.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Imageoverlay.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Properties.Resources.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Writeonimages.resources
+=======
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.blendImages.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Form1.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Properties.Resources.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.StartUp.resources
+>>>>>>> Stashed changes
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.GenerateResource.cache
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.csproj.CopyComplete
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.exe
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.pdb
+<<<<<<< Updated upstream
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.BrightnessandContrastofimage.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Guna.UI.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Login.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Splashscreen.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Image_InPainting.resources
+C:\Users\hls\Desktop\PhotoEditor-App\PROJECTPRACTICE\obj\Debug\PROJECTPRACTICE.Collague.resources
+=======
+>>>>>>> Stashed changes
